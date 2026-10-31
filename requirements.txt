@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+mlxtend
+numpy
+openpyxl
+pandas
+scikit-learn
+scipy
+seaborn
+statsmodels
+vaderSentiment
